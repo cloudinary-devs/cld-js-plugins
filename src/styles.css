@@ -1,0 +1,10 @@
+body {
+  font-family: sans-serif;
+  padding: 24px;
+}
+
+h1 {
+  text-align: center;
+  display: inline-block;
+  font-size: 24px;
+}
